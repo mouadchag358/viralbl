@@ -201,4 +201,5 @@ pixels/gaps, le MIDI multicanal et l'égalité exacte des états à 60/120 FPS.
 5. Utilisez H.264, 12–20 Mb/s, images clés toutes les 2 secondes et audio AAC
    48 kHz / 320 kb/s. Le MP4 obtenu est prêt pour Shorts, Reels et TikTok.
 #   v i r a l b l  
+ #   v i r a l b l  
  
